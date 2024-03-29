@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#table-1,#table-2,#table-3{
+	width:100%;
+}
+#t12,#t15,#t18{
+	text-align:center;
+}
+#t13,#t16,#t19{
+	text-align:right;
+}
+#t-image{
+	width:100px;
+}
+td{
+	height:20px;
+}
